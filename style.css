@@ -1,0 +1,35 @@
+body{
+    background-color: #029aff;
+    color: white;
+}
+
+/* #cv-form{
+    display: none;
+} */
+
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.background{
+    background-color: #0073c0;
+}
+
+.button-col{
+    background-color: #de3e62;
+}
+
+.container-col{
+    margin: 40px;
+    background-color: #0073c0;
+    color: white;
+}
+
+.special-col{
+    color: #0073c0;
+}
